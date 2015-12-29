@@ -1,0 +1,364 @@
+@charset "utf-8";
+/* CSS Document */
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+	border:0px;
+}
+@media screen and (min-width:320px){
+	.search-box {
+		display:none;	
+	}
+	.navbar-toggle {
+		background-color:#003264;
+		background-image: none;
+		border: 0px solid transparent;
+		border-radius: 4px;
+		float: right;
+		margin-bottom: 8px;
+		margin-right:0px;
+		margin-top:7px;
+		padding: 9px 10px;
+		position: relative;
+	}
+	.call-us { 
+		float:none;
+		width:100%;
+		text-align:center;
+	}
+	.navbar-nav {
+		width:100%;
+		float: none;
+		margin: 7.5px -15px;
+	}
+	.carousel-caption h1 {
+		font-size:35px;
+	}
+	.carousel-caption p {
+		font-size:12px;
+	}
+	.carousel {
+		min-height:299px;
+	}
+	.carousel .item {
+		height: 299px;
+	}
+	.foot-carasule .owl-buttons .owl-prev { float:left; background:url(../img/prev-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; left:-12px; position:relative;}
+.foot-carasule .owl-buttons .owl-next { float:right; background:url(../img/next-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; right:-12px; position:relative;}
+.wpcf7-form-control {
+	width:100%;
+	border:1px solid #CCC;
+	height:40px;
+	font:13px;
+	color:#666666;
+	padding:0px 5px;
+	-webkit-border-radius:4px; 
+	-moz-border-radius:4px; 
+	border-radius:4px;	
+}
+textarea.wpcf7-form-control{
+	width:100%;
+	border:1px solid #CCC;
+	height:100px;
+	font:13px;
+	color:#666666;
+	padding:0px 5px;
+	-webkit-border-radius:4px; 
+	-moz-border-radius:4px; 
+	border-radius:4px;	
+}
+.woocommerce-billing-fields {
+	width:100%;
+	display:table;
+	padding:10px 0px 30px 0px;
+}
+.wpmenucart-contents {
+	display:none !important;	
+}
+.mobile-cart {
+	display:block !important;	
+}
+}
+@media screen and (min-width:360px){
+	.search-box {
+		display:none;	
+	}
+	.navbar-toggle {
+		background-color:#003264;
+		background-image: none;
+		border: 0px solid transparent;
+		border-radius: 4px;
+		float: right;
+		margin-bottom: 8px;
+		margin-right:0px;
+		margin-top:8px;
+		padding: 9px 10px;
+		position: relative;
+	}
+	.call-us { 
+		float:none;
+		width:100%;
+		text-align:center;
+	}
+	.navbar-nav {
+		width:100%;
+		float: none;
+		margin: 7.5px -15px;
+	}
+	.carousel-caption h1 {
+		font-size:45px;
+	}
+	.carousel-caption p {
+		font-size:12px;
+	}
+	.carousel {
+		min-height:299px;
+	}
+	.carousel .item {
+		height: 299px;
+	}
+	.foot-carasule .owl-buttons .owl-prev { float:left; background:url(../img/prev-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; left:-14px; position:relative;}
+.foot-carasule .owl-buttons .owl-next { float:right; background:url(../img/next-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; right:-14px; position:relative;}
+.woocommerce-billing-fields {
+	width:100%;
+	display:table;
+	padding:10px 0px 30px 0px;
+}
+.wpmenucart-contents {
+	display:none !important;	
+}
+.mobile-cart {
+	display:block !important;	
+}
+}
+@media screen and (min-width:480px){
+	.search-box {
+		display:none;	
+	}
+	.navbar-toggle {
+		background-color:#003264;
+		background-image: none;
+		border: 0px solid transparent;
+		border-radius: 4px;
+		float: right;
+		margin-bottom: 8px;
+		margin-right:0px;
+		margin-top:14px;
+		padding: 9px 10px;
+		position: relative;
+	}
+	.call-us { 
+		float:none;
+		width:100%;
+		text-align:center;
+	}
+	.navbar-nav {
+		width:100%;
+		float: none;
+		margin: 7.5px -15px;
+	}
+	.carousel-caption h1 {
+		font-size:55px;
+	}
+	.carousel-caption p {
+		font-size:14px;
+	}
+	.carousel {
+		min-height:399px;
+	}
+	.carousel .item {
+		height: 399px;
+	}
+	.foot-carasule .owl-buttons .owl-prev { float:left; background:url(../img/prev-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; left:-14px; position:relative;}
+.foot-carasule .owl-buttons .owl-next { float:right; background:url(../img/next-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; right:-14px; position:relative;}
+.woocommerce-billing-fields {
+	width:100%;
+	display:table;
+	padding:10px 0px 30px 0px;
+}
+.wpmenucart-contents {
+	display:none !important;	
+}
+.mobile-cart {
+	display:block !important;	
+}
+}
+@media screen and (min-width:640px){
+	.search-box {
+		display:none;	
+	}
+	.navbar-toggle {
+		background-color:#003264;
+		background-image: none;
+		border: 0px solid transparent;
+		border-radius: 4px;
+		float: right;
+		margin-bottom: 8px;
+		margin-right:0px;
+		margin-top:22px;
+		padding: 9px 10px;
+		position: relative;
+	}
+	.call-us { 
+		float:none;
+		width:100%;
+		text-align:center;
+	}
+	.navbar-nav {
+		width:100%;
+		float: none;
+		margin: 7.5px -15px;
+	}
+	.carousel-caption h1 {
+		font-size:55px;
+	}
+	.carousel-caption p {
+		font-size:14px;
+	}
+	.carousel {
+		min-height:399px;
+	}
+	.carousel .item {
+		height: 399px;
+	}
+	.foot-carasule .owl-buttons .owl-prev { float:left; background:url(../img/prev-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; left:-14px; position:relative;}
+.foot-carasule .owl-buttons .owl-next { float:right; background:url(../img/next-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; right:-14px; position:relative;}
+.woocommerce-billing-fields {
+	width:100%;
+	display:table;
+	padding:10px 0px 30px 0px;
+}
+.wpmenucart-contents {
+	display:none !important;	
+}
+.mobile-cart {
+	display:block !important;	
+}
+}
+@media screen and (min-width:768px){
+	.search-box {
+		display:block;	
+	}
+	.call-us { 
+		float:left;
+		width:40%;
+		text-align:left;
+	}
+	.navbar-nav {
+		width:auto;
+		float: right;
+		margin: 7.5px -15px;
+	}
+	.carousel-caption h1 {
+		font-size:75px;
+	}
+	.carousel-caption p {
+		font-size:18px;
+	}
+	.carousel {
+		min-height:399px;
+	}
+	.carousel .item {
+		height: 399px;
+	}
+	.foot-carasule .owl-buttons .owl-prev { float:left; background:url(../img/prev-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; left:-19px; position:relative;}
+.foot-carasule .owl-buttons .owl-next { float:right; background:url(../img/next-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; right:-19px; position:relative;}
+.woocommerce-billing-fields {
+	width:50%;
+	display:table;
+	padding:10px 0px 30px 0px;
+}
+.wpmenucart-contents {
+	display:block !important;	
+}
+.mobile-cart {
+	display:none !important;	
+}
+}
+@media screen and (min-width:1024px){
+	.search-box {
+		display:block;	
+	}
+	.call-us { 
+		float:left;
+		width:40%;
+		text-align:left;
+	}
+	.navbar-nav {
+		width:auto;
+		float: right;
+		margin: 7.5px -15px;
+	}
+	.carousel-caption h1 {
+		font-size:75px;
+	}
+	.carousel-caption p {
+		font-size:18px;
+	}
+	.carousel {
+		min-height:399px;
+	}
+	.carousel .item {
+		height: 399px;
+	}
+	.foot-carasule .owl-buttons .owl-prev { float:left; background:url(../img/prev-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; left:-19px; position:relative;}
+.foot-carasule .owl-buttons .owl-next { float:right; background:url(../img/next-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; right:-19px; position:relative;}
+.woocommerce-billing-fields {
+	width:50%;
+	display:table;
+	padding:10px 0px 30px 0px;
+}
+.wpmenucart-contents {
+	display:block !important;	
+}
+.mobile-cart {
+	display:none !important;	
+}
+}
+@media screen and (min-width:1100px){
+	.search-box {
+		display:block;	
+	}
+	.call-us { 
+		float:left;
+		width:40%;
+		text-align:left;
+	}
+	.navbar-nav {
+		width:auto;
+		float: right;
+		margin: 7.5px -15px;
+	}
+	.carousel-caption h1 {
+		font-size:85px;
+	}
+	.carousel-caption p {
+		font-size:18px;
+	}
+	.carousel {
+		min-height:399px;
+	}
+	.carousel .item {
+		height: 399px;
+	}
+	.foot-carasule .owl-buttons .owl-prev { float:left; background:url(../img/prev-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; left:-19px; position:relative;}
+.foot-carasule .owl-buttons .owl-next { float:right; background:url(../img/next-client.png) no-repeat top left; height:42px; width:27px; text-indent:-99999px; right:-19px; position:relative;}
+.woocommerce-billing-fields {
+	width:50%;
+	display:table;
+	padding:10px 0px 30px 0px;
+}
+.wpmenucart-contents {
+	display:block !important;	
+}
+.mobile-cart {
+	display:none !important;	
+}
+} 
+
+
+
+
+
+
